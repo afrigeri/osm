@@ -1,3 +1,8 @@
+### OpenStreetmap ed il suo Impatto sulla Società
+
+corso per il 
+[Servizio Civile Universale La Sapienza](https://www.uniroma1.it/it/pagina/servizio-civile-sapienza)
+__Alessandro Frigeri, Istituto Nazionale di Astrofisica__
 
 __questa pagina:___ 
 
