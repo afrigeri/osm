@@ -4,6 +4,7 @@ corso per il
 [Servizio Civile Universale La Sapienza](https://www.uniroma1.it/it/pagina/servizio-civile-sapienza)
 __Alessandro Frigeri, Istituto Nazionale di Astrofisica__
 
+[Slides: Introduzione a OpenStreetMap](https://github.com/afrigeri/osm/tree/main/eventi/LaSapienza2023/slides#:~:text=intro%2DOSM%2DITALIAN.pdf)
 
 
 ## Fieldpapers fatti IERI
